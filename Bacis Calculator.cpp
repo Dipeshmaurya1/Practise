@@ -12,4 +12,5 @@ main()
 	cout<<"Subraction is: "<<a-b<<endl;
 	cout<<"Multiplication is: "<<a*b<<endl;
 	cout<<"Division is: "<<a/b<<endl;
+	cout<<"Reminder is: "<<a%b<<endl;
 }
